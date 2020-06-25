@@ -1,2 +1,2 @@
 # NLP
-Spacy,Bert
+Spacy,BERT
