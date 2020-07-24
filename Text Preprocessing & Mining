@@ -1,0 +1,11 @@
+twitter-data
+Preprocessing applied to this data
+
+lower case
+contraction to expansion
+remove emails
+remove urls
+remove special chars
+remove @mentions and #hashtag
+remove html tagset
+etc
